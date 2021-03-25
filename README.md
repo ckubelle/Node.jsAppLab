@@ -3,7 +3,7 @@
 I enjoyed this lab and found the overall experience to be positive.<br/>
 
 
-This was my second time working with Node.js and I enjoyed completing the MySQl portion and doing url parameters. 
+This was my second time working with Node.js and I enjoyed completing the MySQL portion and doing url parameters. 
 I never knew how easy it was to do variable endpoint.
 
 
